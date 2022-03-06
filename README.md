@@ -1,5 +1,6 @@
 # course
 Business week
+finished with git tutorials
 
 python
 
